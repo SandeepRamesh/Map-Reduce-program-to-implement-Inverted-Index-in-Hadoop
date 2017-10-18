@@ -1,0 +1,1 @@
+# Map-Reduce-program-to-implement-Inverted-Index-in-Hadoop
